@@ -38,18 +38,27 @@
  /* main section */
  .main-body{
     margin-top: 100px;
+    text-align: center;
  }
 
+ .main-body p{
+    font-style: italic;
+ }
+
+ .main-body .bold{
+    padding: 20px;
+ }
  
 
 /*  styling about */
-.name{
-    display: ;
+#about{
+    margin: auto;
+    background-color: darkgray;
 }
 
 /* footer */
 .foot{
-    color: darkgray;
+    color: black;
     background-color: darkgray;
     width: 100wh;
     bottom: 0;
@@ -63,3 +72,4 @@
 .social-icons img {
     width: 50px;
 }
+
